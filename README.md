@@ -1,1 +1,1 @@
-# black-hole-simulation
+# Black Hole Simulation
